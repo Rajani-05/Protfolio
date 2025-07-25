@@ -1,9 +1,5 @@
-// Toggle navigation on mobile
-document.addEventListener('DOMContentLoaded', () => {
-  const toggleBtn = document.querySelector('.nav__toggle');
+// main.js
+document.querySelector('.nav__toggle').addEventListener('click', () => {
   const navList = document.querySelector('.nav__list');
-
-  toggleBtn.addEventListener('click', () => {
-    navList.classList.toggle('show');
-  });
+  navList.style.display = navList.style.display === 'flex' ? 'none' : 'flex';
 });
