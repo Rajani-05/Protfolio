@@ -1,9 +1,5 @@
 /* Reset */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+
 
 body {
   font-family: 'Segoe UI', sans-serif;
@@ -19,11 +15,6 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-}
-
-.logo {
-  font-weight: bold;
-  font-size: 1.5rem;
 }
 
 .nav__list {
@@ -44,83 +35,6 @@ body {
   font-size: 2rem;
   color: white;
 }
-
-.hero {
-  text-align: center;
-  padding: 4rem 2rem;
-  background: #eee;
-}
-
-.highlight {
-  color: #0066cc;
-}
-
-.section {
-  padding: 2rem;
-  max-width: 800px;
-  margin: auto;
-}
-
-.projects {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-}
-
-.card {
-  flex: 1;
-  min-width: 250px;
-  background: white;
-  padding: 1rem;
-  border-radius: 5px;
-  box-shadow: 0 0 5px rgba(0,0,0,0.1);
-}
-
-.contact-form {
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-}
-
-.contact-form input,
-.contact-form textarea {
-  padding: 0.5rem;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-}
-
-.contact-form button {
-  padding: 0.7rem;
-  background: #0066cc;
-  color: white;
-  border: none;
-  border-radius: 4px;
-}
-
-.footer {
-  text-align: center;
-  padding: 1rem;
-  background: #222;
-  color: white;
-  margin-top: 2rem;
-}
-
-/* Responsive */
-@media (max-width: 768px) {
-  .nav__list {
-    display: none;
-    flex-direction: column;
-    background: #333;
-    position: absolute;
-    top: 60px;
-    right: 20px;
-    padding: 1rem;
-    border-radius: 8px;
-  }
-
-  .nav__list.show {
-    display: flex;
-  }
 
   .nav__toggle {
     display: block;
