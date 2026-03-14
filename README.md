@@ -1,5 +1,5 @@
 
-# Simplefolio ⚡️ [![](https://github.com/Rajani-05/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/Rajani-05/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/Rajani-05/simplefolio)
+# Simplefolio ⚡️ [![](https://github.com/Rajani-05/simplefolio/blob/master/LICENSE.md) ]![GitHub stars](https://img.shields.io/github/stars/Rajani-05/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/Rajani-05/simplefolio)
 
 ## A minimal portfolio template for Developers!
 
@@ -19,7 +19,7 @@
 ⚡️ Well organized documentation
 
 To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
-link : https://rajani-05.netlify.app/
+
 
 ---
 
