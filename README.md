@@ -1,3 +1,5 @@
+About This :
+
 Modern UI Design + Reveal Animations
 ⚡️ One Page Layout
 ⚡️ Styled with Bootstrap v4.3 + Custom SCSS
@@ -260,12 +262,11 @@ Sass - CSS extension language
 ScrollReveal.js - JavaScript library
 Tilt.js - JavaScript tiny parallax library
 Authors
-Jacobo Martinez - https://github.com/cobiwave
+View - https://github.com/Rajani-05
 Status
 Netlify Status
 
 License 📄
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-Acknowledgments 🎁
-I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to ZTM Community and Andrei
+
