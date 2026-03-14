@@ -28,7 +28,7 @@ To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
 - Professional way to showcase your work
 - Increases your visibility and online presence
 - Shows you’re more than just a resume
-
+link : https://rajani-05.netlify.app/
 ## Getting Started 🚀
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -406,7 +406,7 @@ You can delete or add as many <a> tags your want.
 </footer>
 <<<<<<< HEAD
 ```
-link : https://rajani-05.netlify.app/
+
 
 ### Step 2 - STYLES
 
