@@ -6,7 +6,8 @@ Modern UI Design + Reveal Animations
 ⚡️ Optimized with Parcel
 ⚡️ Well organized documentation
 
-To view the demo: click here
+To view the demo:<a href="https://the-simplefolio.netlify.app/">click here</a>
+
 
 Why do you need a portfolio? ☝️
 Professional way to showcase your work
@@ -28,7 +29,7 @@ How To Use 🔧
 From your command line, first clone Simplefolio:
 
 # Clone the repository
-$ git clone https://github.com/cobiwave/simplefolio
+$ git clone https://github.com/Rajani-05/Portfolio
 
 # Move into the repository
 $ cd simplefolio
