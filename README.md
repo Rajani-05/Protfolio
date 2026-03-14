@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simplefolio ⚡️ [![](https://github.com/Rajani-05/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/Rajani-05/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/Rajani-05/simplefolio)
 
 ## A minimal portfolio template for Developers!
@@ -56,19 +57,61 @@ From your command line, first clone Simplefolio:
 ```bash
 # Clone the repository
 $ git clone https://github.com/Rajani-05/Protfolio-New.git
+=======
+About This :
+
+Modern UI Design + Reveal Animations
+⚡️ One Page Layout
+⚡️ Styled with Bootstrap v4.3 + Custom SCSS
+⚡️ Fully Responsive
+⚡️ Valid HTML5 & CSS3
+⚡️ Optimized with Parcel
+⚡️ Well organized documentation
+
+To view the demo:<a href="https://the-simplefolio.netlify.app/">click here</a>
+
+
+Why do you need a portfolio? ☝️
+Professional way to showcase your work
+Increases your visibility and online presence
+Shows you’re more than just a resume
+Getting Started 🚀
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+Prerequisites 📋
+You'll need Git and Node.js (which comes with NPM) installed on your computer.
+
+node@v16.4.2 or higher
+npm@7.18.1 or higher
+git@2.30.1 or higher
+Also, you can use Yarn instead of NPM ☝️
+
+yarn@v1.22.10 or higher
+How To Use 🔧
+From your command line, first clone Simplefolio:
+
+# Clone the repository
+$ git clone https://github.com/Rajani-05/Portfolio
+>>>>>>> 2be306fcb5c8f66fe8188506091900ee105a6845
 
 # Move into the repository
 $ cd simplefolio
 
 # Remove the current origin repository
 $ git remote remove origin
+<<<<<<< HEAD
 ```
 
+=======
+>>>>>>> 2be306fcb5c8f66fe8188506091900ee105a6845
 After that, you can install the dependencies either using NPM or Yarn.
 
 Using NPM: Simply run the below commands.
 
+<<<<<<< HEAD
 ```bash
+=======
+>>>>>>> 2be306fcb5c8f66fe8188506091900ee105a6845
 # 2022 Update - Fix Dependencies
 $ npm audit fix
 $ npm i @parcel/transformer-sass
@@ -78,16 +121,22 @@ $ npm install
 
 # Start the development server
 $ npm start
+<<<<<<< HEAD
 ```
 
 Using Yarn: Be aware of that you'll need to delete the `package-lock.json` file before executing the below commands.
 
 ```bash
+=======
+Using Yarn: Be aware of that you'll need to delete the package-lock.json file before executing the below commands.
+
+>>>>>>> 2be306fcb5c8f66fe8188506091900ee105a6845
 # Install dependencies
 $ yarn
 
 # Start the development server
 $ yarn start
+<<<<<<< HEAD
 ```
 
 **NOTE**:
@@ -118,6 +167,22 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 - On `.hero-cta`, put your custom button label.
 
 ```html
+=======
+NOTE: If your run into issues installing the dependencies with NPM, use this below command:
+
+# Install dependencies with all permissions
+$ sudo npm install --unsafe-perm=true --allow-root
+Once your server has started, go to this url http://localhost:1234/ to see the portfolio locally. It should look like the below screenshot.
+
+Simplefolio
+Template Instructions:
+Step 1 - STRUCTURE
+Go to /src/index.html and put your information, there are 5 sections:
+
+(1) Hero Section
+On .hero-title, put your custom portfolio title.
+On .hero-cta, put your custom button label.
+>>>>>>> 2be306fcb5c8f66fe8188506091900ee105a6845
 <!-- **** Hero Section **** -->
 <section id="hero" class="jumbotron">
   <div class="container">
@@ -134,6 +199,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
   </div>
 </section>
 <!-- /END Hero Section -->
+<<<<<<< HEAD
 ```
 
 ### (2) About Section
@@ -143,6 +209,12 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 - On last `<a>` tag, include your CV (.pdf) path on `href` property, your resume CV must be located inside `/src/assets/` folder.
 
 ```html
+=======
+(2) About Section
+On <img> tag, fill the src property with your profile picture path, your picture must be located inside /src/assets/ folder.
+On <p> tag with class name .about-wrapper__info-text, include information about you, I recommend to put 2 paragraphs in order to work well and a maximum of 3 paragraphs.
+On last <a> tag, include your CV (.pdf) path on href property, your resume CV must be located inside /src/assets/ folder.
+>>>>>>> 2be306fcb5c8f66fe8188506091900ee105a6845
 <!-- **** About Section **** -->
 <section id="about">
   <div class="container">
@@ -185,6 +257,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
   </div>
 </section>
 <!-- /END About Section -->
+<<<<<<< HEAD
 ```
 
 ### (3) Projects Section
@@ -201,6 +274,16 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 - Recommended size for project image (1366 x 767), your project image must be located inside `/src/assets/` folder.
 
 ```html
+=======
+(3) Projects Section
+Each project lives inside a row.
+On <h3> tag with class name .project-wrapper__text-title, include your project title.
+On <p> tag with loremp ipsum text, include your project description.
+On first <a> tag, put your project url on href property.
+On second <a> tag, put your project repository url on href property.
+Inside <div> tag with class name .project-wrapper__image, put your project image url on the src of the <img> and put again your project url in the href property of the <a> tag.
+Recommended size for project image (1366 x 767), your project image must be located inside /src/assets/ folder.
+>>>>>>> 2be306fcb5c8f66fe8188506091900ee105a6845
 <!-- **** Projects Section **** -->
 <section id="projects">
   ...
@@ -258,6 +341,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
   <!-- /END Project -->
   ...
 </section>
+<<<<<<< HEAD
 ```
 
 ### (4) Contact Section
@@ -266,6 +350,11 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 - On `<a>` tag, put your email address on `href` property.
 
 ```html
+=======
+(4) Contact Section
+On <p> tag with class name .contact-wrapper__text, include some custom call-to-action message.
+On <a> tag, put your email address on href property.
+>>>>>>> 2be306fcb5c8f66fe8188506091900ee105a6845
 <!-- **** Contact Section **** -->
 <section id="contact">
   <div class="container">
@@ -283,6 +372,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
   </div>
 </section>
 <!-- /END Contact Section -->
+<<<<<<< HEAD
 ```
 
 ### (5) Footer Section
@@ -292,6 +382,12 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 - You can delete or add as many `<a>` tags your want.
 
 ```html
+=======
+(5) Footer Section
+Put your Social Media URL on each href attribute of the <a> tags.
+If you an additional Social Media account different than Twitter, Linkedin or GitHub, then go to Font Awesome Icons and search for the icon's class name you are looking.
+You can delete or add as many <a> tags your want.
+>>>>>>> 2be306fcb5c8f66fe8188506091900ee105a6845
 <footer class="footer navbar-static-bottom">
   ...
   <div class="social-links">
@@ -307,6 +403,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
   </div>
   ...
 </footer>
+<<<<<<< HEAD
 ```
 
 ### Step 2 - STYLES
@@ -351,4 +448,36 @@ I highly recommend to use [Netlify](https://netlify.com) because it is super eas
 ## License 📄
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+=======
+Step 2 - STYLES
+Change the color theme of the website - (choose 2 colors to create a gradient)
+
+Go to /src/sass/abstracts/_variables.scss and only change the values for this variables $main-color and $secondary-color with your prefered HEX color. If you want to get some gradients inspiration I highly recommend you to check this website UI Gradient
+
+// Default values
+$main-color: #02aab0;
+$secondary-color: #00cdac;
+Deployment 📦
+Once you finish your setup. You need to put your website online!
+
+I highly recommend to use Netlify because it is super easy.
+
+Others versions 👥
+Gatsby Simplefolio by Jacobo Martinez
+Ember.js Simplefolio by Michael Serna
+
+Technologies used 🛠️
+Parcel - Bundler
+Bootstrap 4 - Frontend component library
+Sass - CSS extension language
+ScrollReveal.js - JavaScript library
+Tilt.js - JavaScript tiny parallax library
+Authors
+View - https://github.com/Rajani-05
+Status
+Netlify Status
+
+
+
+>>>>>>> 2be306fcb5c8f66fe8188506091900ee105a6845
 
