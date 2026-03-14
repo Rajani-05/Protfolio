@@ -266,7 +266,6 @@ View - https://github.com/Rajani-05
 Status
 Netlify Status
 
-License 📄
-This project is licensed under the MIT License - see the LICENSE.md file for details
+
 
 
