@@ -1,8 +1,7 @@
 
 # Simplefolio ⚡️
-
+link : https://rajani-05.netlify.app
 ## A minimal portfolio template for Developers!
-
 <h2 align="center">
   <img src="https://github.com/Rajani-05/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
   <br>
@@ -18,7 +17,6 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
-To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
 
 
 ---
