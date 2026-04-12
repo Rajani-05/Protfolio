@@ -1,10 +1,7 @@
 
-<h2 align="center">
-  <img src="https://github.com/Rajani-05/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
-  <br>
-</h2>
-<h2>##Simplefolio ⚡️</h2> 
-## Features
+
+<h2>#Simplefolio ⚡️</h2> 
+ Features
 
 ⚡️ Modern UI Design + Reveal Animations\
 ⚡️ One Page Layout\
