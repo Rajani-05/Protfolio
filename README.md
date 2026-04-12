@@ -27,11 +27,8 @@
 - Shows you’re more than just a resume
 
 
-Why do you need a portfolio? ☝️
-Professional way to showcase your work
-Increases your visibility and online presence
-Shows you’re more than just a resume
-Getting Started 🚀
+
+##Getting Started 🚀
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 
@@ -49,7 +46,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ```
-## Status
 
 ```
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3a029bfd-575c-41e5-8249-c864d482c2e5/deploy-status)](https://app.netlify.com/sites/the-simplefolio/deploys)
