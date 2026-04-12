@@ -166,53 +166,8 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 - On `.hero-cta`, put your custom button label.
 
 ```html
-=======
-NOTE: If your run into issues installing the dependencies with NPM, use this below command:
-
-# Install dependencies with all permissions
-$ sudo npm install --unsafe-perm=true --allow-root
-Once your server has started, go to this url http://localhost:1234/ to see the portfolio locally. It should look like the below screenshot.
-
-Simplefolio
-Template Instructions:
-Step 1 - STRUCTURE
-Go to /src/index.html and put your information, there are 5 sections:
-
-(1) Hero Section
-On .hero-title, put your custom portfolio title.
-On .hero-cta, put your custom button label.
->>>>>>> 2be306fcb5c8f66fe8188506091900ee105a6845
-<!-- **** Hero Section **** -->
-<section id="hero" class="jumbotron">
-  <div class="container">
-    <h1 class="hero-title load-hidden">
-      Hi, my name is <span class="text-color-main">Your Name</span>
-      <br />
-      I'm the Unknown Developer.
-    </h1>
-    <p class="hero-cta load-hidden">
-      <a rel="noreferrer" class="cta-btn cta-btn--hero" href="#about">
-        Know more
-      </a>
-    </p>
-  </div>
-</section>
-<!-- /END Hero Section -->
-<<<<<<< HEAD
-```
 
 
-
-## Deployment 📦
-
-Once you finish your setup. You need to put your website online!
-
-I highly recommend to use [Netlify](https://netlify.com) because it is super easy.
-
-## Others versions 👥
-
-[Gatsby Simplefolio](https://github.com/Rajani-05/Protfolio-New) by [Jacobo Martinez](https://github.com/Rajani-05/Protfolio)\
-[Ember.js Simplefolio](https://github.com/sernadesigns/simplefolio-ember) by [Michael Serna](https://github.com/sernadesigns)
 
 ## Technologies used 🛠️
 
