@@ -27,15 +27,6 @@
 - Shows you’re more than just a resume
 
 
-
-##Getting Started 🚀
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-
-```
-
-```
-
 ## Technologies used 🛠️
 
 - [Parcel](https://parceljs.org/) - Bundler
@@ -45,9 +36,10 @@ These instructions will get you a copy of the project up and running on your loc
 - [Tilt.js](https://gijsroge.github.io/tilt.js/) - JavaScript tiny parallax library
 
 
-```
 
-```
+
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3a029bfd-575c-41e5-8249-c864d482c2e5/deploy-status)](https://app.netlify.com/sites/the-simplefolio/deploys)
 
 link : https://rajani-5.netlify.app/
+
