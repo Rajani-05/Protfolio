@@ -1,12 +1,9 @@
-  
 
-## A minimal portfolio template for Developers!
- ## Simplefolio ⚡️
 <h2 align="center">
   <img src="https://github.com/Rajani-05/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
   <br>
 </h2>
-
+ ## Simplefolio ⚡️
 ## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
