@@ -998,6 +998,11 @@ pre { font-family: var(--font-mono); font-size: 0.85rem; line-height: 2; }
   background: rgba(108,99,255,0.12);
   transform: translateY(-3px);
 }
+#contactSocialLinkedin:hover {
+  border-color: #0077b5;
+  background: rgba(0,119,181,0.12);
+  color: #0ea5e9;
+}
 
 /* ===========================
    FOOTER
