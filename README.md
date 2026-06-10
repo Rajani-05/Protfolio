@@ -25,7 +25,7 @@ Welcome to the personal portfolio of **Beerangi Rajani**, an AI & Machine Learni
    ```bash
    cd Protfolio
    ```
-3. Open `index.html` in your favorite browser. No build steps required!
+3. Open `index.html` in your favorite browser!
 
 
 ---
