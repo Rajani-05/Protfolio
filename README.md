@@ -27,9 +27,6 @@ Welcome to the personal portfolio of **Beerangi Rajani**, an AI & Machine Learni
    ```
 3. Open `index.html` in your favorite browser. No build steps required!
 
-## 📬 Contact
-- **LinkedIn:** [rajani-beerangi-3121r](https://www.linkedin.com/in/rajani-beerangi-3121r)
-- **GitHub:** [Rajani-05](https://github.com/Rajani-05)
 
 ---
-*Designed & built with simplicity and performance in mind.*
+
