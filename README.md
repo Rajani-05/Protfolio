@@ -1,52 +1,31 @@
-# 🚀 Beerangi Rajani — Full Stack Developer Portfolio
+# 🚀 Rajani Portfolio
 
-Welcome to the personal portfolio of **Beerangi Rajani**, a Full Stack Developer specializing in **Java, Spring Boot, React.js, REST API Design, Database Optimization (MySQL, MongoDB)**, and **AI Feature Integration**.
+Welcome to the personal portfolio of **Beerangi Rajani**, an AI & Machine Learning Developer specializing in NLP, FastAPI, Streamlit, and Python.
 
-## 🌐 Live Demos & Links
-- 🌐 **[View Portfolio Live](https://rajani-05.github.io/Protfolio/)**
-- 🐙 **[GitHub Profile (Rajani-05)](https://github.com/Rajani-05)**
-- 💼 **[LinkedIn Profile](https://www.linkedin.com/in/rajani-beerangi-3121r)**
+## 🌐 Live Demo
+👉 **[View Portfolio Live](https://rajani-portfolio-auto.netlify.app)**
 
----
+## 🛠️ Built With
+- **HTML5** & **CSS3** (Custom Grid/Flexbox)
+- **Vanilla JavaScript** (Animations, Interactivity)
+- Modern UI trends: Dark Theme, Glassmorphism, CSS Micro-animations
 
-## 🛠️ Technical Stack
-- **Languages**: Java, C, Python, JavaScript (ES6+)
-- **Backend & Frameworks**: Spring Boot, JDBC, Hibernate ORM, REST APIs, Spring Security, JWT
-- **Frontend**: HTML5, CSS3, JavaScript, React.js, Tailwind CSS
-- **Databases**: MySQL, MongoDB
-- **AI & Integrations**: Gemini AI, Speech-to-Text, NLP (spaCy, TF-IDF), Cosine Similarity
-- **Tools & DevOps**: Git, GitHub, Maven, Postman, Docker, Netlify, Render, Vercel
-
----
-
-## 💻 Featured Projects & Live Demos
-
-1. **VoiceHire – Voice Intelligence Interview Evaluation System**
-   - **Tech**: Java, Spring Boot, React.js, REST APIs, Gemini AI, Speech-to-Text, Netlify, Render
-   - **Live Demo**: [voicehire-ai.netlify.app](https://voicehire-ai.netlify.app)
-   - **Code**: [GitHub Repo](https://github.com/Rajani-05/Voice-Analyser)
-
-2. **EventEase – Event Booking Platform**
-   - **Tech**: Spring Boot, React.js, MongoDB, Tailwind CSS, Spring Security, JWT, REST APIs, Gemini AI
-   - **Live Demo**: [eventease-booking.onrender.com](https://eventease-booking.onrender.com)
-   - **Code**: [GitHub Repo](https://github.com/Rajani-05/TEAM_19_FRONTEND)
-
-3. **Diet Recommendation System**
-   - **Tech**: Python, FastAPI, Scikit-Learn, Streamlit, Docker, Cosine Similarity
-   - **Live Demo**: [rajani-diet-frontend.onrender.com](https://rajani-diet-frontend.onrender.com)
-   - **Code**: [GitHub Repo](https://github.com/Rajani-05/Diet-Recommendation-System)
-
----
-
-## 📜 Certificates
-- **Programming in Java** – Infosys Springboard Certificate
-- **Oracle Autonomous Database Certification** – Oracle Certified
-
----
+## ✨ Features
+- **Responsive Design**: Looks great on Desktop, Tablet, and Mobile.
+- **Dynamic Animations**: Floating elements, scroll reveals, and a typing effect.
+- **Skill Showcases**: Categorized skills (AI/ML, Backend, Frontend, Data, DevOps).
+- **Featured Projects**: Deep-dives into highlighted technical projects.
 
 ## 🏃‍♂️ How to Run Locally
 1. Clone this repository:
    ```bash
    git clone https://github.com/Rajani-05/Protfolio.git
    ```
-2. Open `index.html` in your browser!
+2. Navigate into the directory:
+   ```bash
+   cd Protfolio
+   ```
+3. Open `index.html` in your favorite browser!
+
+
+---
