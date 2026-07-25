@@ -41,11 +41,6 @@ Welcome to the personal portfolio of **Beerangi Rajani**, a Full Stack Developer
    - **Live Demo**: [rajani-diet-frontend.onrender.com](https://rajani-diet-frontend.onrender.com)
    - **Code**: [GitHub Repo](https://github.com/Rajani-05/Diet-Recommendation-System)
 
-5. **AI Resume Shortlisting Tool**
-   - **Tech**: Python, spaCy, TF-IDF, Flask, PyMuPDF, Cosine Similarity
-   - **Live Demo**: [resume-shortlisting-tool.vercel.app](https://resume-shortlisting-tool.vercel.app)
-   - **Code**: [GitHub Repo](https://github.com/Rajani-05/Resume-Shortlisting-Tool)
-
 ---
 
 ## 📜 Certificates
