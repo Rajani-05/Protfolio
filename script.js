@@ -50,11 +50,12 @@ navLinks.querySelectorAll('.nav-link').forEach(link => {
 
 // ========== TYPED TEXT EFFECT ==========
 const phrases = [
-  'AI & ML Developer 🤖',
-  'NLP Engineer 🧠',
-  'Full-Stack Builder 🌐',
-  'Problem Solver 🚀',
-  'Python Enthusiast 🐍',
+  'Full Stack Developer 🌐',
+  'Java & Spring Boot Engineer ⚡',
+  'React.js Developer ⚛️',
+  'AI Features Integrator 🤖',
+  'Database & API Specialist 🗄️',
+  'Problem Solver 🚀'
 ];
 const typedEl = document.getElementById('typedText');
 let phraseIdx = 0;
@@ -91,7 +92,7 @@ setTimeout(type, 800);
 // ========== SCROLL REVEAL ==========
 function addRevealClass() {
   const elements = document.querySelectorAll(
-    '.about-text, .about-card-wrap, .skill-category, .project-card, .contact-text, .contact-cta-card, .hero-badge, .hero-stats, .more-projects, .section-label, .section-title, .section-subtitle'
+    '.about-text, .about-card-wrap, .skill-category, .exp-card, .project-card, .cert-card, .contact-text, .contact-cta-card, .hero-badge, .hero-stats, .more-projects, .section-label, .section-title, .section-subtitle'
   );
   elements.forEach(el => el.classList.add('reveal'));
 }
@@ -166,7 +167,7 @@ const statsObserver = new IntersectionObserver((entries) => {
         const text = el.textContent;
         const num = parseInt(text);
         if (!isNaN(num)) {
-          const suffix = text.includes('+') ? '+' : '';
+          const suffix = text.includes('+') ? '+' : (text.includes('%') ? '%' : '');
           el.textContent = '0' + suffix;
           animateCounter(el, num, suffix);
         }
@@ -243,4 +244,4 @@ if (footerText) {
 
 // ========== LOG ==========
 console.log('%cBeerangi Rajani Portfolio 🚀', 'color:#6c63ff;font-size:18px;font-weight:bold;');
-console.log('%cBuilt with HTML, CSS & JavaScript', 'color:#00d4ff;font-size:12px;');
+console.log('%cFull Stack Developer | Java, Spring Boot, React.js, REST APIs', 'color:#00d4ff;font-size:12px;');
