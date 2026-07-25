@@ -31,12 +31,7 @@ Welcome to the personal portfolio of **Beerangi Rajani**, a Full Stack Developer
    - **Live Demo**: [eventease-booking.onrender.com](https://eventease-booking.onrender.com)
    - **Code**: [GitHub Repo](https://github.com/Rajani-05/TEAM_19_FRONTEND)
 
-3. **DRIMS – Data Research Information Management System**
-   - **Tech**: Java, Spring Boot, Hibernate ORM, MySQL, React.js, REST APIs
-   - **Live Demo**: [drims-system.onrender.com](https://drims-system.onrender.com)
-   - **Code**: [GitHub Repo](https://github.com/Rajani-05/TEAM_BACKEND)
-
-4. **Diet Recommendation System**
+3. **Diet Recommendation System**
    - **Tech**: Python, FastAPI, Scikit-Learn, Streamlit, Docker, Cosine Similarity
    - **Live Demo**: [rajani-diet-frontend.onrender.com](https://rajani-diet-frontend.onrender.com)
    - **Code**: [GitHub Repo](https://github.com/Rajani-05/Diet-Recommendation-System)
