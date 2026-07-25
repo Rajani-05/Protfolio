@@ -16,16 +16,6 @@ Welcome to the personal portfolio of **Beerangi Rajani**, an AI & Machine Learni
 - **Skill Showcases**: Categorized skills (AI/ML, Backend, Frontend, Data, DevOps).
 - **Featured Projects**: Deep-dives into highlighted technical projects.
 
-## 🏃‍♂️ How to Run Locally
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Rajani-05/Protfolio.git
-   ```
-2. Navigate into the directory:
-   ```bash
-   cd Protfolio
-   ```
-3. Open `index.html` in your favorite browser!
 
 
 ---
